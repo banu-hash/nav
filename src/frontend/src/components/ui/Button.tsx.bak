@@ -1,0 +1,4 @@
+// This file is intentionally left as a stub.
+// Use @/components/AppButton for the custom campus button.
+// Use @/components/ui/button for the shadcn button.
+export {};

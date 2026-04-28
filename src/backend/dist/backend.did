@@ -1,0 +1,9 @@
+type RouteResult = 
+ record {
+   distance: nat;
+   found: bool;
+   path: vec text;
+ };
+service : {
+  findRoute: (start: text, end: text) -> (RouteResult) query;
+}

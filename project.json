@@ -1,0 +1,21 @@
+{
+  "overview": "A campus navigation web app that helps students, staff, and visitors find the shortest path between buildings using Dijkstra's Algorithm. Features a multi-page interface with a map section, dropdown selectors, and route results.",
+  "features": [
+    "Shortest path finder using Dijkstra's Algorithm",
+    "Campus graph with Gate, Library, CSE Block, Admin Block, and Hostel",
+    "Dropdown menus to select start and destination",
+    "Find Route button with path and distance display",
+    "Multi-page layout: Home, About, Map, Contact",
+    "Light-themed, mobile-responsive UI",
+    "Error handling for invalid or same location selections"
+  ],
+  "category": "productivity",
+  "tags": [
+    "navigation",
+    "campus",
+    "dijkstra",
+    "pathfinding",
+    "education"
+  ],
+  "last_updated": "2026-04-20T14:16:45.502Z"
+}

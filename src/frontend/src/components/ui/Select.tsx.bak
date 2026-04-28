@@ -1,0 +1,4 @@
+// This file is intentionally left as a stub.
+// Use @/components/CampusSelect for the custom native select.
+// Use @/components/ui/select for the shadcn Radix select.
+export {};
