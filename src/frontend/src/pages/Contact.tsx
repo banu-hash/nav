@@ -6,10 +6,10 @@ const CONTACT_INFO = [
   {
     icon: MapPin,
     label: "Address",
-    value: "University Campus, Main Gate Road, City – 000001",
+    value: "Old Nagore Road, Thethi Village, Nagapattinam - 611002, Tamil Nadu, India.",
   },
-  { icon: Mail, label: "Email", value: "campusnav@university.edu" },
-  { icon: Phone, label: "Phone", value: "+91 98765 43210" },
+  { icon: Mail, label: "Email", value: "principal@egspec.org" },
+  { icon: Phone, label: "Phone", value: "99768 88999" },
 ];
 
 export default function Contact() {
