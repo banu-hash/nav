@@ -2,24 +2,24 @@ import { BookOpen, Code2, GraduationCap, Lightbulb } from "lucide-react";
 
 const TEAM = [
   {
-    name: "Dr. A. Ramesh",
+    name: "Dr. G. Arulselvan",
     role: "Project Mentor",
-    dept: "Dept. of Computer Science",
+    dept: "Assistant Professor & HOD / IT",
   },
   {
-    name: "Priya Sharma",
-    role: "Frontend Developer",
-    dept: "Final Year, B.Tech CSE",
+    name: "R. Brindha",
+    role: "Team Member",
+    dept: "3rd Year, Information Technology",
   },
   {
-    name: "Karan Mehta",
-    role: "Algorithm Engineer",
-    dept: "Final Year, B.Tech CSE",
+    name: "C. Banu",
+    role: "Team Member",
+    dept: "3rd Year, Information Technology",
   },
   {
-    name: "Sneha Iyer",
-    role: "UI/UX Designer",
-    dept: "Final Year, B.Tech CSE",
+    name: "R. Abinayaharini",
+    role: "Team Member",
+    dept: "3rd Year, Information Technology",
   },
 ];
 
